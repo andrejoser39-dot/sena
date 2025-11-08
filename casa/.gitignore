@@ -1,2 +1,2 @@
-# Archivos de configuración
-config.txt
+# Ignorar el archivo de configuración dentro de la carpeta 'casa'
+casa/config.txt
